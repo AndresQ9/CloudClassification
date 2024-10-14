@@ -1,0 +1,2 @@
+0 Cloud with line
+1 Cloud without line
