@@ -1,0 +1,1 @@
+This is my cloud classification ML project where I train and implement a model to identify which images of clouds have a line through them and which do not. This is the first step in a larger project that will be utilized to help manufacturers quickly determine which parts still need work done and which have been restored. 
